@@ -5,4 +5,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-LucasDK&layout=compact&theme=chartreuse-dark)
 
 <!-- Badge com o número total de repositórios -->
-![Repositórios](https://img.shields.io/github/repos/Adrian-LucasDK?style=flat-square)
+![Repositórios](https://img.shields.io/github/repo-count/Adrian-LucasDK?style=flat-square)
