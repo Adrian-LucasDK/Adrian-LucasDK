@@ -1,1 +1,7 @@
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrian-lucasdk&theme=chartreuse_dark)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrian-lucasdk&theme=chartreuse_dark)
+
+## 💻 Linguagens mais usadas
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrian-lucasdk&theme=chartreuse_dark)
