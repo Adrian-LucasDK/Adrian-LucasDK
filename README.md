@@ -1,1 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=adrian-lucasdk&theme=chartreuse-dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrian-lucasdk&theme=chartreuse_dark)
